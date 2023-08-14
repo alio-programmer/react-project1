@@ -8,6 +8,7 @@ footer{
     color: $dark;
     display: grid;
     grid-template-columns: 4fr 1fr;
+    border-top: 1px solid black ;
     padding: 1rem;
 
     > div{

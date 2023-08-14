@@ -1,0 +1,16 @@
+.photocarousel{
+    div{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        img{
+            object-fit: contain;
+        }
+        .img-4{
+            img{
+                object-fit: contain;
+            }
+        }
+    }
+}

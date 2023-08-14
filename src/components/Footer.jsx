@@ -4,7 +4,7 @@ const  footer = () => {
     <>
         <footer>
             <div>
-                <h1>Potato Programmer</h1>
+                <h1>Alio-Programmer</h1>
                 <p>@all rights reserved</p>
             </div>
             <div>
